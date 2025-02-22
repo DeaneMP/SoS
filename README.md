@@ -1,0 +1,1 @@
+This directory contains (or will) files providing the calculated Stark broadening profiles for neutral Hydrogen lines from the first 4 series (Lyman - Brackett) up to upper principle quantum number 21.  Any time now.
